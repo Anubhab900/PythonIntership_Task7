@@ -1,0 +1,23 @@
+[
+    {
+        "name": "jhvh",
+        "rollno": 67,
+        "age": 89,
+        "coarse": "nnmn",
+        "marks": 78.0
+    },
+    {
+        "name": "Anubhab",
+        "rollno": 23,
+        "age": 65,
+        "coarse": "B.Tech",
+        "marks": 45.0
+    },
+    {
+        "name": "Mathews",
+        "rollno": 67,
+        "age": 98,
+        "coarse": "B.ED",
+        "marks": 78.0
+    }
+]
